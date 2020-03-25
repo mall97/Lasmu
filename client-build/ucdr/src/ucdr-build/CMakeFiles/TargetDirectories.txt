@@ -1,0 +1,7 @@
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/ucdr/src/ucdr-build/CMakeFiles/install/strip.dir
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/ucdr/src/ucdr-build/CMakeFiles/edit_cache.dir
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/ucdr/src/ucdr-build/CMakeFiles/rebuild_cache.dir
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/ucdr/src/ucdr-build/CMakeFiles/microcdr.dir
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/ucdr/src/ucdr-build/CMakeFiles/list_install_components.dir
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/ucdr/src/ucdr-build/CMakeFiles/install/local.dir
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/ucdr/src/ucdr-build/CMakeFiles/install.dir

@@ -1,0 +1,8 @@
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/temp_install/lib/libmicrocdr.a
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/temp_install/include/ucdr/microcdr.h
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/temp_install/include/ucdr/visibility.h
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/temp_install/include/ucdr/config.h
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/temp_install/share/microcdr/cmake/microcdrTargets.cmake
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/temp_install/share/microcdr/cmake/microcdrTargets-release.cmake
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/temp_install/share/microcdr/cmake/microcdrConfig.cmake
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/temp_install/share/microcdr/cmake/microcdrConfigVersion.cmake

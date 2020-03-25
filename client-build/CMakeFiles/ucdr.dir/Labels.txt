@@ -1,0 +1,13 @@
+# Target labels
+ ucdr
+# Source files and their labels
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/CMakeFiles/ucdr
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/CMakeFiles/ucdr.rule
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/CMakeFiles/ucdr-complete.rule
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/ucdr/src/ucdr-stamp/ucdr-install.rule
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/ucdr/src/ucdr-stamp/ucdr-mkdir.rule
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/ucdr/src/ucdr-stamp/ucdr-download.rule
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/ucdr/src/ucdr-stamp/ucdr-update.rule
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/ucdr/src/ucdr-stamp/ucdr-patch.rule
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/ucdr/src/ucdr-stamp/ucdr-configure.rule
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/ucdr/src/ucdr-stamp/ucdr-build.rule

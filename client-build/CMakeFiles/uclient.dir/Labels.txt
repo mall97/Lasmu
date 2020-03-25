@@ -1,0 +1,13 @@
+# Target labels
+ uclient
+# Source files and their labels
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/CMakeFiles/uclient
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/CMakeFiles/uclient.rule
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/CMakeFiles/uclient-complete.rule
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/uclient-prefix/src/uclient-stamp/uclient-install.rule
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/uclient-prefix/src/uclient-stamp/uclient-mkdir.rule
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/uclient-prefix/src/uclient-stamp/uclient-download.rule
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/uclient-prefix/src/uclient-stamp/uclient-update.rule
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/uclient-prefix/src/uclient-stamp/uclient-patch.rule
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/uclient-prefix/src/uclient-stamp/uclient-configure.rule
+/home/miguel/Micro-XRCE-DDS/build/client/src/client-build/uclient-prefix/src/uclient-stamp/uclient-build.rule
