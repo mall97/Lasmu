@@ -6,7 +6,7 @@
 #include "client/examples/Deployment/HelloWorld.h"
 
 #define STREAM_HISTORY  8
-#define BUFFER_SIZE     UXR_CONFIG_UDP_TRANSPORT_MTU * STREAM_HISTORY
+#define BUFFER_SIZE     UXR_CONFIG_SERIAL_TRANSPORT_MTU * STREAM_HISTORY
 
 int open_port(void)
 {
@@ -27,8 +27,8 @@ int open_port(void)
 int main()
 {   
     //transport
-    uxrUDPTransport Transport;
-    uxrUDPPlatform SerialPlatform;
+    uxrSerialTransport Transport;
+    uxrSerialPlatform SerialPlatform;
     int fd=open_port();
     uint8_t local_addr0=1;
     if(!uxr_init_serial_transport(&Transport, &SerialPlatform, fd, 0, local_addr0))
