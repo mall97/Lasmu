@@ -12,7 +12,7 @@ int open_port(void)
 {
   int fd; /* File descriptor for the port */
 
-  fd = open("/dev/ttyACM0", O_RDWR | O_NOCTTY | O_NDELAY);   //change port 
+  fd = open("/dev/ttyACM1", O_RDWR | O_NOCTTY | O_NDELAY);   //change port 
   if (fd == -1)
   {
     perror("open_port: Unable to open /dev/ttyf1 - ");
